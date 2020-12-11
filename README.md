@@ -26,7 +26,7 @@ My name is <bYvan</b>, I have been learning programming for five years now and I
 		</b>
 		<br />
 		<br />
-		<i>All repos on my professionnal account (ChaumeiLDigital) are private.</i>
+		<i>All repos on my professionnal account (CHAUMEIL Digital) are private.</i>
 	</font>
 	<br />
 	<br />
