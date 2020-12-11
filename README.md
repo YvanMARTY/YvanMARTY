@@ -7,7 +7,7 @@ Hi there 👋
 </font>
 <br />
 <br />
-My name is <a href="pseudo-dev.tk">Illyes</a>, I've been learning programming for a year now and I love it. I'm currently doing <strong>websites</strong> and <strong>discord chat </strong>. The languages I'm learning are: <strong>JS</strong> and <strong>PHP</strong>
+My name is <a href="pseudo-dev.tk">Yvan</a>, I have been learning programming for five years now and I continue to learn every day. I'm currently doing <strong>several tools</strong> for <strong>to automate different flows</strong>. I love it :heart:
 
 <p align="center">
 	<br />
@@ -15,7 +15,7 @@ My name is <a href="pseudo-dev.tk">Illyes</a>, I've been learning programming fo
 	<br />
 	<br />
 	<br />
-	<a href="https://twitter.com/Pseudo_Illyes"><img src="http://img.shields.io/badge/Twitter-%40Pseudo&#95;Illyes-1DA1F2?style=for-the-badge" /></a>
+	<a href="https://www.linkedin.com/in/martyyvan/"><img src="http://img.shields.io/badge/Linkedin-%40Pseudo&#95;Illyes-1DA1F2?style=for-the-badge" /></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/illyes.all/"><img src="http://img.shields.io/badge/Instagram-%40illyes.all-E1306C?style=for-the-badge" /></a>
 	<br />
