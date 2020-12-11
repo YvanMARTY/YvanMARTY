@@ -24,6 +24,7 @@ My name is <bYvan</b>, I have been learning programming for five years now and I
 		<b>
 			My GITHUB accounts
 		</b>
+		<i>All repos on my professionnal account (ChaumeiLDigital) are private.</i>
 	</font>
 	<br />
 	<br />
