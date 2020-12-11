@@ -41,7 +41,7 @@ My name is <a href="pseudo-dev.tk">Yvan</a>, I have been learning programming fo
 	<br />
 	<br />
 	<br />
-	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YvanMARTY&layout=compact" /></a>
+	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YvanMARTY&layout=compact&theme=dracula" /></a>
 </p>
 
 ___
