@@ -28,8 +28,8 @@ My name is <a href="pseudo-dev.tk">Yvan</a>, I have been learning programming fo
 	<br />
 	<br />
 	<br />
-	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api?username=YvanMARTY&show_icons=true&theme=gradient" /></a>
-	<a href="https://github.com/ChaumeilDigital"><img src="https://github-readme-stats.vercel.app/api?username=ChaumeilDigital&show_icons=true&theme=gradient" /></a>
+	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api?username=YvanMARTY&show_icons=true&theme=tokyonight" /></a>
+	<a href="https://github.com/ChaumeilDigital"><img src="https://github-readme-stats.vercel.app/api?username=ChaumeilDigital&show_icons=true&theme=tokyonight" /></a>
 	<br />
 	<br />
 	<br />
