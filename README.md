@@ -30,6 +30,18 @@ My name is <a href="pseudo-dev.tk">Yvan</a>, I have been learning programming fo
 	<br />
 	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api?username=YvanMARTY&show_icons=true&theme=dracula" /></a>
 	<a href="https://github.com/ChaumeilDigital"><img src="https://github-readme-stats.vercel.app/api?username=ChaumeilDigital&show_icons=true&theme=dracula" /></a>
+	<br />
+	<br />
+	<br />
+	<font size="10">
+		<b>
+			My languages (personal account)
+		</b>
+	</font>
+	<br />
+	<br />
+	<br />
+	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YvanMARTY&layout=compact" /></a>
 </p>
 
 ___
