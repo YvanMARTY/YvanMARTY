@@ -15,7 +15,7 @@ My name is <a href="pseudo-dev.tk">Yvan</a>, I have been learning programming fo
 	<br />
 	<br />
 	<br />
-	<a href="https://www.linkedin.com/in/martyyvan/"><img src="http://img.shields.io/badge/Linkedin-%40Pseudo&#95;Yvan%20MARTY-1DA1F2?style=for-the-badge" /></a>
+	<a href="https://www.linkedin.com/in/martyyvan/"><img src="http://img.shields.io/badge/Linkedin-Yvan%20MARTY-1DA1F2?style=for-the-badge" /></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<br />
 	<br />
