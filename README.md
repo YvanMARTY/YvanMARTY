@@ -7,7 +7,7 @@ Hi there 👋
 </font>
 <br />
 <br />
-My name is <a href="pseudo-dev.tk">Yvan</a>, I have been learning programming for five years now and I continue to learn every day. I'm currently doing <strong>several tools</strong> for <strong>to automate different flows</strong>. I love it :heart:
+My name is <bYvan</b>, I have been learning programming for five years now and I continue to learn every day. I'm currently doing <strong>several tools</strong> for <strong>to automate different flows</strong>. I love it :heart:
 
 <p align="center">
 	<br />
