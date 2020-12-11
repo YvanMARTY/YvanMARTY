@@ -7,7 +7,7 @@ Hi there 👋
 </font>
 <br />
 <br />
-My name is <bYvan</b>, I have been learning programming for five years now and I continue to learn every day. I'm currently doing <strong>several tools</strong> for <strong>to automate different flows</strong>. I love it :heart:
+My name is <b>Yvan</b>, I have been learning programming for five years now and I continue to learn every day. I'm currently doing <strong>several tools</strong> for <strong>to automate different flows</strong>. I loving it :heart:
 
 <p align="center">
 	<br />
