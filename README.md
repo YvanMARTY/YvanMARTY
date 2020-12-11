@@ -22,7 +22,7 @@ My name is <a href="pseudo-dev.tk">Yvan</a>, I have been learning programming fo
 	<br />
 	<font size="10">
 		<b>
-			Mes comptes GITHUB
+			My GITHUB accounts
 		</b>
 	</font>
 	<br />
