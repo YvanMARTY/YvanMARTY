@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YvanMARTY&show_icons=true&theme=dracula&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=YvanMARTY&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 <font size="10">
 <b>
 Hi there 👋
@@ -15,7 +15,7 @@ My name is <bYvan</b>, I have been learning programming for five years now and I
 	<br />
 	<br />
 	<br />
-	<a href="https://www.linkedin.com/in/martyyvan/"><img src="http://img.shields.io/badge/Linkedin-Yvan%20MARTY-1DA1F2?style=for-the-badge" /></a>
+	<a href="https://www.linkedin.com/in/martyyvan/"><img src="http://img.shields.io/badge/Linkedin-Yvan%20MARTY-1DA1F2?style=for-the-badge&count_private=true" /></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<br />
 	<br />
@@ -31,8 +31,8 @@ My name is <bYvan</b>, I have been learning programming for five years now and I
 	<br />
 	<br />
 	<br />
-	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api?username=YvanMARTY&show_icons=true&theme=tokyonight" /></a>
-	<a href="https://github.com/ChaumeilDigital"><img src="https://github-readme-stats.vercel.app/api?username=ChaumeilDigital&show_icons=true&theme=tokyonight" /></a>
+	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api?username=YvanMARTY&show_icons=true&theme=tokyonight&count_private=true" /></a>
+	<a href="https://github.com/ChaumeilDigital"><img src="https://github-readme-stats.vercel.app/api?username=ChaumeilDigital&show_icons=true&theme=tokyonight&count_private=true" /></a>
 	<br />
 	<br />
 	<br />
@@ -44,7 +44,7 @@ My name is <bYvan</b>, I have been learning programming for five years now and I
 	<br />
 	<br />
 	<br />
-	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YvanMARTY&layout=compact&theme=radical" /></a>
+	<a href="https://github.com/YvanMARTY"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YvanMARTY&layout=compact&theme=radical&count_private=true" /></a>
 </p>
 
 ___
