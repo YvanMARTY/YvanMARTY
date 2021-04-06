@@ -15,7 +15,7 @@ Joined Github **4** years ago.
 
 - 🛠 &nbsp; I’m currently working with PHP, Javascript, JQuery, <br /> SQL, TWITG, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YvanMARTY/).
-- 📫 &nbsp; How to reach me: yvan.martypro@gmail.com.
+- 📫 &nbsp; How to reach me: yvanmarty.pro@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/martyyvan/?locale=en_US).
 
 ### My Absolute Favorites:
@@ -50,26 +50,3 @@ Joined Github **4** years ago.
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yvanmarty&hide_border=true" />
 </details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/yvanmarty/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
-	</ul>	
-</details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
