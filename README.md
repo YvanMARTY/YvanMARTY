@@ -9,7 +9,7 @@ My name is **Yvan**, I have been learning programming there is five years now an
 
 Joined Github **4** years ago.
 
-<img align="right" height="250" width="375" alt="" src="https://miro.medium.com/max/1500/0*enrI7BXUzwJEomlq.gif" />
+<img align="right" height="250" width="375" alt="" src="https://brtechnosoft.com/wp-content/uploads/2020/12/web-development.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -39,7 +39,7 @@ Joined Github **4** years ago.
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ ithub stats</b></summary>
+  <summary><b>⚡ Github stats</b></summary>
 Personal :
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yvanmarty&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvanmarty&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
