@@ -14,6 +14,7 @@ Joined Github **8** years ago.
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with PHP, Javascript, JQuery, <br /> SQL, TWITG, etc.
+- ❤️ &nbsp; Falling in love with Laravel and Symfony
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YvanMARTY/).
 - 📫 &nbsp; How to reach me: yvanmarty.pro@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/martyyvan/?locale=en_US).
