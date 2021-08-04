@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yvanmarty&style=flat-square&color=0088cc)
 
-My name is **Yvan**, I have been learning programming there is five years now and I continue to learn every day. I'm currently doing **several tools** to **automate different flows**. I loving it :heart:
+My name is **Yvan**, I have been learning programming there is five years now and I continue to learn every day. I'm currently doing **several tools** to **automate different flows**. I loving it 💕
 
 Joined Github **4** years ago.
 
@@ -18,6 +18,7 @@ Joined Github **4** years ago.
 - 👨🏻‍💻 &nbsp; All my projects are available here on [Github](https://github.com/YvanMARTY/).
 - 📫 &nbsp; How to reach me: yvanmarty.pro@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/martyyvan/?locale=en_US).
+- 🏢 &nbsp; Checkout my [profesionnal GitHub account](https://github.com/ChaumeilDigital)
 
 ### My Absolute Favorites:
 
