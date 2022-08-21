@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martyyvan/?locale=en_US)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/YvanMARTY/)
 
-<img src="https://cdn-blog.novoresume.com/articles/web-developer-resume/bg.png">
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yvanmarty&style=flat-square&color=0088cc)
 
 My name is **Yvan**, I have been learning programming there is five years now and I continue to learn every day. I'm currently doing **several tools** to **automate different flows**. I loving it 💕
