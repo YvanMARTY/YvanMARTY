@@ -5,9 +5,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yvanmarty&style=flat-square&color=0088cc)
 
-My name is **Yvan**, I have been learning programming there is five years now and I continue to learn every day. I'm currently doing **several tools** to **automate different flows**. I loving it 💕
+My name is **Yvan**, I have been learning and practising programming for five years now. I am currently doing **several tools** to **automate different flows**. I loving it 💕
 
-Joined Github **4** years ago.
+Joined Github **5** years ago.
 
 <img align="right" height="250" width="375" alt="" src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" />
 
