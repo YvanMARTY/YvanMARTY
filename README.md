@@ -1,7 +1,6 @@
 ## Hey 👋, I'm [Yvan MARTY!](https://github.com/YvanMARTY/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martyyvan/?locale=en_US)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/YvanMARTY/)
 
 ### Glad to see you here! &nbsp; !
 
