@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martyyvan/?locale=en_US)
 
-### Glad to see you here! &nbsp; !
+### Glad to see you here!
 
 My name is **Yvan**, I have been learning and practising programming for five years now. I am currently doing **several tools** to **automate different flows**. I loving it 💕
 
