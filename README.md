@@ -6,7 +6,7 @@
 
 My name is **Yvan**, I have been learning and practising programming for five years now. I am currently doing **several tools** to **automate different flows**. I loving it 💕
 
-<img align="right" height="250" width="375" alt="" src="https://as1.ftcdn.net/v2/jpg/02/24/86/92/1000_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd.jpg" />
+<img align="right" height="250" width="375" alt="" src="https://img.freepik.com/premium-vector/software-engineer-sit-chair-working-laptop-use-programming-language-code-with-flat-cartoon-style_197170-392.jpg" />
 
 ### Talking about Personal Stuffs:
 
