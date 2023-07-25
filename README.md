@@ -39,7 +39,7 @@ and COMPOSER / NPM.
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Profesional Github acccount stats ChaumeilDigital </b></summary>
+  <summary><b>⚡ Profesional Github acccount stats - ChaumeilDigital </b></summary>
   <i>All repositories are private.</i>
   <p></p>
   <p></p>
