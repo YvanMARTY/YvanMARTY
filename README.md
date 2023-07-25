@@ -6,8 +6,6 @@
 
 My name is **Yvan**, I have been learning and practising programming for five years now. I am currently doing **several tools** to **automate different flows**. I loving it 💕
 
-Joined Github **10** years ago.
-
 <img align="right" height="250" width="375" alt="" src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" />
 
 ### Talking about Personal Stuffs:
