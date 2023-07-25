@@ -4,7 +4,7 @@
 
 ### Glad to see you here!
 
-My name is **Yvan**, I have been learning and practising programming for five years now. I am currently doing **several tools** to **automate different flows**. I loving it 💕
+My name is **Yvan**, I have been learning and practising programming for six years now. I am currently doing **several tools** to **automate different flows**. I loving it 💕
 
 <img align="right" height="250" width="375" alt="" src="https://img.freepik.com/premium-vector/software-engineer-sit-chair-working-laptop-use-programming-language-code-with-flat-cartoon-style_197170-392.jpg" />
 
