@@ -6,7 +6,7 @@
 
 My name is **Yvan**, I have been learning and practising programming for five years now. I am currently doing **several tools** to **automate different flows**. I loving it 💕
 
-<img align="right" height="250" width="375" alt="" src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" />
+<img align="right" height="250" width="375" alt="" src="https://as1.ftcdn.net/v2/jpg/02/24/86/92/1000_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd.jpg" />
 
 ### Talking about Personal Stuffs:
 
